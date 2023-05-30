@@ -46,7 +46,7 @@ const Sidebar = ({ isSidebarOpen }) => {
     </a>
   </li>
   <li className='py-4'>
-    <a href="Github" className="flex items-center text-gray-700 hover:text-cyan-700">
+    <a href="https://github.com/Foxy20122012/SymbolTable" className="flex items-center text-gray-700 hover:text-cyan-700">
       <svg className="w-6 h-6 mr-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
         <circle cx="12" cy="12" r="10"></circle>
         <path d="M12 8L12 16"></path>
